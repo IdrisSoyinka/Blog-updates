@@ -1,5 +1,5 @@
 # Blog-updates experiment
-Automation Script
+
 Blog Automation Script
 This Python script automates the process of fetching recent articles from various RSS feeds, generating content using OpenAI's GPT model, and publishing the generated content to a Blogger blog.
 Features
