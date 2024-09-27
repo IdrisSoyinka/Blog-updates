@@ -1,0 +1,7 @@
+requests==2.26.0
+beautifulsoup4==4.10.0
+google-auth-oauthlib==0.4.6
+google-api-python-client==2.31.0
+openai==0.27.0
+python-dotenv==0.19.2
+feedparser==6.0.8
