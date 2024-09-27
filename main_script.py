@@ -48,20 +48,7 @@ client = OpenAI(api_key=OPENAI_API_KEY)
 RSS_FEEDS = [
     "https://www.nature.com/nbt/rss/current.xml",  # Nature Biotechnology instead of nature.com/nature/articles
     "https://www.sciencemag.org/rss/news_current.xml",
-    "https://www.cell.com/cell/current.rss",  # Cell instead of scientificamerican.com
-    "https://phys.org/rss-feed/",
-    "https://www.newscientist.com/feed/home/",
-    "https://www.scotusblog.com/feed/",
-    "https://abovethelaw.com/feed/",
-    "https://harvardlawreview.org/feed/",
-    "https://techtransfercentral.com/feed/",
-    "https://www.genengnews.com/feed/",  # Genetic Engineering & Biotechnology News instead of leslicensing.org
-    "https://www.fiercebiotech.com/rss/xml",  # FierceBiotech instead of tlo.mit.edu
-    "https://www.biopharmadive.com/feeds/news/",  # BioPharma Dive instead of otl.stanford.edu
-    "http://feeds.feedburner.com/TechCrunch/",
-    "https://www.wired.com/feed/rss",
-    "https://www.pharmaceutical-technology.com/feed/",  # Pharmaceutical Technology instead of govtech.com
-    "https://www.theverge.com/rss/index.xml"
+    
 ]
 
 def fetch_rss_feeds(rss_urls):
