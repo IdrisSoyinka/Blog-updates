@@ -1,0 +1,20 @@
+# Sensitive/environment-specific files
+.env
+client_secret.json
+
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+env/
+
+# OS-specific
+.DS_Store
+Thumbs.db
