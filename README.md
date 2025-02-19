@@ -64,3 +64,6 @@ If you encounter authentication issues, ensure your client_secret.json file is c
 For OpenAI API errors, verify your API key and check your usage limits.
 If articles are not being fetched, check your internet connection and the validity of the RSS feed URLs.
 
+About
+Idris Soyinka - pracice, Programming for lawyers class
+
