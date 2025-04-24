@@ -65,5 +65,5 @@ For OpenAI API errors, verify your API key and check your usage limits.
 If articles are not being fetched, check your internet connection and the validity of the RSS feed URLs.
 
 About
-Idris Soyinka - pracice, Programming for lawyers class
+Idris Soyinka - Practice (Programming for lawyers class)
 
